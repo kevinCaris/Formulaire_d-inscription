@@ -1,0 +1,75 @@
+body
+{
+    font-family: Lato, sans-serif;
+    margin: 70px 0px;
+    background-color:#0069d6;
+}
+.divider
+{
+    width: 100px;
+    height: 2px;
+    background: #ffa500;
+    margin: 0px auto ;
+}
+.heading
+{
+    text-align: center;
+    margin-bottom: 60px;
+   
+    
+}
+h2
+{
+    color:#fff;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+#contact_form
+{
+    font-size: 20px;
+    background: #fff;
+    padding: 40px;
+    border-radius: 10px;
+}
+.blue
+{
+    color: #0069d6;
+}
+.form-control
+{
+    height: 50px;
+    font-size: 18px;
+}
+.comment
+{
+    color: #d82c2e ;
+    font-style: italic;
+    font-size: 18px;
+    height: 25px;
+}
+.button
+{
+    margin: 35px auto 0px;
+    display: block;
+    border: 1 solid #ddd;
+    background: #ffa500;
+    color: #fff;
+    width: 100%;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 18px;
+    border-radius: 5px;
+    transition: all 0.3s ease-in 0s;
+}
+.button:hover
+{
+    background:#333;
+     border-color: #ffa500;
+}
+.merci
+{
+ text-align: center;
+ font-weight: bold;
+ margin-top: 15px;
+ font-size: 22px;   
+}
